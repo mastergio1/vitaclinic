@@ -9,6 +9,9 @@ dist-ssr
 *.local
 *.tsbuildinfo
 
+# Generated archives
+*.zip
+
 # Logs
 logs
 *.log
